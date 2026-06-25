@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Autonomous Engineering OS
 
-# Run and deploy your AI Studio app
+This repository contains the complete, production-ready Autonomous Engineering Platform.
 
-This contains everything you need to run your app locally.
+## Features
+- **Phase 1: Core Engine** (Execution, Observation, Analysis)
+- **Phase 2: Self-Evolution** (Control System, Safety Gates, Learning Loops)
+- **Phase 3: Hybrid AI** (Multi-Agent Consensus, Fallbacks, Decision Routing)
+- **Phase 4: Autonomous OS** (Global Orchestrator, Persistent Context, Self-Healing)
+- **Production Hardened** (Rate Limiting, API Standards, Observability, Auth)
 
-View your app in AI Studio: https://ai.studio/apps/e062636a-4152-4ead-a2cc-314757671b33
+## API Endpoints
+- `POST /api/v1/meta/autonomous-os`: Run the full engineering OS.
+- `POST /api/v1/meta/hybrid`: Run Hybrid Super Intelligence.
+- `POST /api/v1/meta/evolve`: Run Evolution Cycle.
+- `POST /api/v1/meta/test`: Run core engine hard tests.
+- `GET /api/v1/health`: Get system health metrics.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**SYSTEM COMPLETE ✅**
